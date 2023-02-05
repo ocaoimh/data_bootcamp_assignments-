@@ -121,7 +121,7 @@ dflab3.dtypes
 #Then filter the data to show only the information for the first quarter , ie. January, February and March. _Hint_: If data from March does not exist, consider only January and February.
 #filtered_df = dflab3.loc[dflab3['effective_to_date'].dt.month == 3]
 
-dflab4_q1-2011 = dflab3.query("effective_to_date_2 >= '2011-01-01' \
+dflab4_q1_2011 = dflab3.query("effective_to_date_2 >= '2011-01-01' \
                        and effective_to_date_2 < '2020-03-31'")
 
 ```
