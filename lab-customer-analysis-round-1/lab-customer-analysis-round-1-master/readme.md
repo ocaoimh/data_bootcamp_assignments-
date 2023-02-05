@@ -18,7 +18,7 @@ The objective of this data is to understand customer demographics and buying beh
 
 For this lab, we will gather the data from 3 _csv_ files that are provided in the `files_for_lab` folder. Use that data and complete the data cleaning tasks as mentioned later in the instructions.
 
-### Solution
+### Instruction + Solution
 
 - Read the three files into python as dataframes
 ```python
