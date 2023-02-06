@@ -1,2 +1,6 @@
-# data_bootcamp_assignments-
-a repo to store and share data analytics bootcamp assignments
+# Data bootcamp assignments
+A repo to store and share data analytics bootcamp assignments
+
+Lab | Customer Analysis Round 1 [Link to file](../blob/master/LICENSE)
+
+Lab | Customer Analysis Round 2
