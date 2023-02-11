@@ -364,7 +364,7 @@ p = sns.countplot(data=data, x='Response', hue='Sales Channel')
 
 
     
-![png](output_9_0.png)
+![png](output/output_9_0.png)
     
 
 
@@ -393,7 +393,7 @@ for p in g.ax.patches:
 
 
     
-![png](output_10_0.png)
+![png](output/output_10_0.png)
     
 
 
@@ -412,7 +412,7 @@ sns.histplot(data, x="Response", hue="Sales Channel", stat="percent", multiple="
 
 
     
-![png](output_11_1.png)
+![png](output/output_11_1.png)
     
 
 
@@ -436,7 +436,7 @@ sns.barplot(x="Response", y="Total Claim Amount", data=data)
 
 
     
-![png](output_12_1.png)
+![png](output/output_12_1.png)
     
 
 
@@ -470,7 +470,7 @@ sns.histplot(
 
 
     
-![png](output_13_1.png)
+![png](output/output_13_1.png)
     
 
 
@@ -492,7 +492,7 @@ ax.set(ylabel="Percent")
 
 
     
-![png](output_14_1.png)
+![png](output/output_14_1.png)
     
 
 
@@ -516,7 +516,7 @@ ax.set(ylabel="Percent")
 
 
     
-![png](output_15_1.png)
+![png](output/output_15_1.png)
     
 
 
@@ -545,21 +545,8 @@ sns.histplot(
 
 
     
-![png](output_16_1.png)
+![png](output/output_16_1.png)
     
 
 
 
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
