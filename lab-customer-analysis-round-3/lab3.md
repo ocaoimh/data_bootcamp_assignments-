@@ -337,7 +337,7 @@ data['Response'].value_counts().plot(kind='bar')
 
 
     
-![png](output_7_1.png)
+![png](output/output_7_1.png)
     
 
 
