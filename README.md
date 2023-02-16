@@ -9,5 +9,10 @@ Lab | Customer Analysis Round 2: [click here](https://github.com/ocaoimh/data_bo
 
 Lab | Customer Analysis Round 3: [click here](https://github.com/ocaoimh/data_bootcamp_assignments-/blob/main/lab-customer-analysis-round-3/lab3.md "Lab | Customer Analysis Round 3")
 
+Lab | Customer Analysis Round 4: [click here](https://github.com/ocaoimh/data_bootcamp_assignments-/blob/main/lab-customer-analysis-round-4-5/lab4/lab4.md "Lab | Customer Analysis Round 4")
+
+Lab | Customer Analysis Round 5: [click here](https://github.com/ocaoimh/data_bootcamp_assignments-/blob/main/lab-customer-analysis-round-4-5/lab5.md "Lab | Customer Analysis Round 5")
+
+
 
 
