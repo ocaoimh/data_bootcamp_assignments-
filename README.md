@@ -13,6 +13,7 @@ Lab | Customer Analysis Round 4: [click here](https://github.com/ocaoimh/data_bo
 
 Lab | Customer Analysis Round 5: [click here](https://github.com/ocaoimh/data_bootcamp_assignments-/blob/main/lab-customer-analysis-round-4-5/lab5.md "Lab | Customer Analysis Round 5")
 
-
-
+## Week 7
+### SQL
+Lab | SQL Joins on multiple tables: [click here](https://github.com/ocaoimh/data_bootcamp_assignments-/blob/main/lab-customer-analysis-round-4-5/lab5.md "Lab | Customer Analysis Round 5")
 
