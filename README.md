@@ -15,5 +15,5 @@ Lab | Customer Analysis Round 5: [click here](https://github.com/ocaoimh/data_bo
 
 ## Week 7
 ### SQL
-Lab | SQL Joins on multiple tables: [click here](https://github.com/ocaoimh/data_bootcamp_assignments-/blob/main/lab-customer-analysis-round-4-5/lab5.md "Lab | Customer Analysis Round 5")
+Lab | SQL Joins on multiple tables: [click here]([https://github.com/ocaoimh/data_bootcamp_assignments-/blob/main/lab-customer-analysis-round-4-5/lab5.md](https://github.com/ocaoimh/data_bootcamp_assignments-/blob/main/week7_Lab_joins_on_multiple_tables/lab_solution.md) "Lab | SQL Joins on multiple tables")
 
