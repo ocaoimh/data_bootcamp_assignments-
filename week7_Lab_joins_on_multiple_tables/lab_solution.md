@@ -75,7 +75,7 @@ LIMIT 5;
 
 7. Is "Academy Dinosaur" available for rent from Store 1?
 
-### I wasn't able to do this one by myself :( 
+### I wasn't able to do this one by myself :(  - used chatGPT
 
 ```sql
 SELECT COUNT(*) AS available
