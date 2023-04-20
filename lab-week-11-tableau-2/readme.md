@@ -11,3 +11,6 @@ For this lab, you will be using the output of the previous lab - the `unit-4-lab
 3. Create a sheet with a treeplot of the number of customers per **State**.
 4. Create a cross table with Marital status and Gender.
 5. Create a Dashboard with all the Sheets created until now.
+
+![Screenshot of tableau dashboard](https://raw.githubusercontent.com/ocaoimh/data_bootcamp_assignments-/main/lab-week-11-tableau-2/Screenshot%202023-04-20%20at%2021.30.32.png)
+
