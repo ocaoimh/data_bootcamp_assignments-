@@ -18,6 +18,7 @@ Lab | Customer Analysis Round 5: [click here](https://github.com/ocaoimh/data_bo
 Lab | SQL Joins on multiple tables: [click here](https://github.com/ocaoimh/data_bootcamp_assignments-/blob/main/week7_Lab_joins_on_multiple_tables/lab_solution.md "Lab |  SQL Joins on multiple tables")
 
 ## Week 18
-Lab | Cross validation: [click here]("https://github.com/ocaoimh/data_bootcamp_assignments-/blob/main/Lab%20%7C%20Cross%20Validation/lab-cross-validation.ipynb" Lab |  SQL Joins on multiple tables")
+Lab | Cross validation: [click here]
+(https://github.com/ocaoimh/data_bootcamp_assignments-/blob/main/Lab%20%7C%20Cross%20Validation/lab-cross-validation.ipynb "Lab |  SQL Joins on multiple tables")
 
 
