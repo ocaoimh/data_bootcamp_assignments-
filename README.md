@@ -22,3 +22,14 @@ Lab | SQL Joins on multiple tables: [click here](https://github.com/ocaoimh/data
 
 Lab | Cross validation: [click here](https://github.com/ocaoimh/data_bootcamp_assignments-/blob/main/Lab%20%7C%20Cross%20Validation/lab-cross-validation.ipynb "Lab |  Cross validation")
 
+
+## Week 18
+### Web scraping
+
+Lab | Web scraping: [click here](https://github.com/ocaoimh/data_bootcamp_assignments-/blob/main/lab_music_scraping/lab_music_scrape.ipynb "Lab |  Web Scraping")
+
+### APIs
+Lab | APIs: [click here](https://github.com/ocaoimh/data_bootcamp_assignments-/tree/main/lab%20%7C%20working%20with%20APIs "Lab |  APIs")
+
+
+
