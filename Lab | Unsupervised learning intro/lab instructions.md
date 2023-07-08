@@ -14,9 +14,13 @@ To do this, I used an unsupervised learning technique called k-means to cluster 
 In order to find the best clusters, we had to test different ways of grouping and analyse the features of each cluster. 
 
 
+
 ![screenshot7](https://github.com/ocaoimh/data_bootcamp_assignments-/blob/main/Lab%20%7C%20Unsupervised%20learning%20intro/data/Screenshot%202023-07-08%20at%2010.54.04.png)
+_Quick glance at the _
 
 ![screenshot7](https://github.com/ocaoimh/data_bootcamp_assignments-/blob/main/Lab%20%7C%20Unsupervised%20learning%20intro/data/Screenshot%202023-07-08%20at%2010.53.58.png)
+_Looking for the best elbow_
 
 ![screenshot7](https://github.com/ocaoimh/data_bootcamp_assignments-/blob/main/Lab%20%7C%20Unsupervised%20learning%20intro/data/Screenshot%202023-07-08%20at%2010.53.52.png)
+_Silhouette score_
 
