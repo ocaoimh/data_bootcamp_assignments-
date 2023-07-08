@@ -10,6 +10,7 @@ We had to create a song recommendation application. Users are asked to enter a s
 To do this, I used an unsupervised learning technique called k-means to cluster songs by their audio features. Audio features were added to each song title using the Spotify database and accessed via the Spotify API.
 
 
-
+#### Clusters
+In order to find the best clusters, we had to test different ways of grouping and analyse the features of each cluster. 
 
 
