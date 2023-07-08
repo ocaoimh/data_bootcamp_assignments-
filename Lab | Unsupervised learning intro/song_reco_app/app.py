@@ -10,9 +10,16 @@ from sklearn.metrics import pairwise_distances_argmin_min
 
 app = Flask(__name__, static_folder='static')
 
+
+import os   
+from dotenv import load_dotenv  # load environment variables
+load_dotenv('.env')
+
+# Retrieve the credentials from environment variables (no, I'm not sharing my Spotify credentials ;) 
+client_id = os.getenv("CLIENT_ID")
+client_secret = os.getenv("CLIENT_SECRET")
+
 # Initialize SpotiPy with user credentials
-client_id = "af3a4e21d9974f798b0ddef081728f2b"
-client_secret = "99a65d20eff04d64bcf24b11824dffc4"
 sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id=client_id, client_secret=client_secret))
 
 
