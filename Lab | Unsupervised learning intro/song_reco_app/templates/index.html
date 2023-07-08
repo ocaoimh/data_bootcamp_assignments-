@@ -1,1 +1,54 @@
 
+<!DOCTYPE html>
+<html>
+  <head>
+  
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>{% block title %} {% endblock%}</title>
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+ 
+</head>
+
+  <body>
+
+    <div class="background-80s">
+        <div class="sun"></div>
+        
+        <div class="grid" style="--grid-color:rgba(115,59,139,0.7);--grid-size:30px;--grid-blur:1px;"></div>
+          </div>
+
+
+
+    <header>
+        <div class="chrome shine" data-text="80'S SONG">80<span class="spark"></span>'S SONG</div>
+        <div class="chrome shine" data-text="PICKER" style="--shine-delay:1s;">PICKER<span class="spark spark-offset"></span></div>        <hr>
+      </header>
+  
+      <h2>Do you like the best of the 80s?</h1>
+        <p2> Fed up with your usual playlist? Discover the best of the 80s from France and Spain</p2>
+        <p></p>
+      <p2>Enter the name of a song that you like and we'll suggest a different one that we think that you'd like</p2>
+  
+  
+  
+  <form action="/recommend" method="post">
+      <input type="text" name="song_name" placeholder="Enter a song name" required>
+      <input type="submit" value="Hit me!">
+  </form>
+
+
+</div>
+</div>
+    
+</body>
+
+<footer>
+    <p3>CSS credits to:  CSS 3D Grid OutRun Design
+        Ion Emil Negoitas</p3>
+    <p3><a href="https://codepen.io/inegoita/pen/BgdXMw">CodePen link</a></p3>
+  </footer>
+</html>
+
+
+
