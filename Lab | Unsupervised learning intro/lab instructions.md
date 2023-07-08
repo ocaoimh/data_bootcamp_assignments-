@@ -25,5 +25,5 @@ _Looking for the best elbow - 4 looks to to be good_
 
 <img src="https://github.com/ocaoimh/data_bootcamp_assignments-/blob/main/Lab%20%7C%20Unsupervised%20learning%20intro/data/Screenshot%202023-07-08%20at%2010.53.52.png" width=70% height=70%>
 
-_Silhouette score - it's a toss up between 3 and 5 I'll go for 3 as the dataset is not that big_
+_Silhouette score - it's a toss up between 3 and 5 I'll go for 3 as the red line overreach and the relative widths are more homogeneous_
 
